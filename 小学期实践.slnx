@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1.文件加解密软件/1.文件加解密软件.vcxproj" Id="61c3d4f0-6b01-464d-bd73-9f02f6f90550" />
+  <Project Path="全局最优搜索/全局最优搜索.vcxproj" Id="91a67b9e-0a74-4f1d-98a8-371a6933dcec" />
+  <Project Path="启发式搜索/启发式搜索.vcxproj" Id="417c20df-cc0c-422b-8550-ec6d5f0574c0" />
+  <Project Path="图搜索/图搜索.vcxproj" Id="566ac060-3f18-47c7-acdb-c54b6238feff" />
+  <Project Path="局部最优搜索/局部最优搜索.vcxproj" Id="fbdfd311-551c-4a16-8a1d-d0d22634391d" />
+  <Project Path="树搜索（树的链式存储）/树搜索（树的链式存储）.vcxproj" Id="deaf5c7a-e34f-4348-a3c6-7facc4e94c79" />
+</Solution>
